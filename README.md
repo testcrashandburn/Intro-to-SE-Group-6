@@ -1,6 +1,6 @@
 # Intro-to-SE-Group-6
 
-Design and develop an e-commerce platform that will have a number of functionalities
+Designing and developing an e-commerce platform that will have a number of functionalities
 based on the customer (TA) expectations.
 
 Team Members
