@@ -24,4 +24,6 @@ Tradex is a web application using a collection of platforms in multiple language
 IDEs: Microsoft Visual Studio Code, Emacs, Micro, Nano
 
 
+# Tradex Description:
 
+# Tradex Features:
