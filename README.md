@@ -9,4 +9,4 @@ Team Members
 * Enang Imowo  ije25 ije25@msstate.edu Team member
 * Fisher Mason mcf325 mcf325@msstate.edu Team member
 
-Here are the [User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
+Here are some [User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
