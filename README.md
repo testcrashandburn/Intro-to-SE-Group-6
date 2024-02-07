@@ -1,4 +1,4 @@
-# Intro-to-SE-Group-6
+# Tradex: Group 6's Intro-to-SE Ecommerce Project
 
 Designing and developing an e-commerce platform that will have a number of functionalities
 based on the customer (TA) expectations.
