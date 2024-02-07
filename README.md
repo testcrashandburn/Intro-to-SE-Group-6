@@ -5,6 +5,8 @@ Team Members:
 * Enang Imowo  ije25 ije25@msstate.edu Team member
 * Fisher Mason mcf325 mcf325@msstate.edu Team member
 
+[Spring 1 Meeting Minutes](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Meeting)
+
 # Tradex: Group 6's Intro-to-SE Ecommerce Project
 
 This repo is for designing and developing an e-commerce platform that will have a number of functionalities
