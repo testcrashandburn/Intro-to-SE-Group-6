@@ -12,7 +12,9 @@ Team Members:
 This repo is for designing and developing an e-commerce platform that will have a number of functionalities
 based on the customer (TA) expectations.
 
-Here are some [User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
+[Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
+
+[Here is the project's website](http://20.115.44.153:8000/polls/)
 
 Tradex is a web application using a collection of platforms in multiple languages, with a version control system, and live cloud server for testing and presentation. Specifically: 
 1. Backend: The web server logic uses the webserver package Django 5.0 
