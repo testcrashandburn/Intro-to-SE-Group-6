@@ -28,4 +28,7 @@ IDEs: Microsoft Visual Studio Code, Emacs, Micro, Nano
 
 # Tradex Description:
 
+The Tradex application provides a seamless online shopping experience, empowering customers to leverage the Tradex website for convenient and secure online purchases. At its core, the system caters to three primary roles: buyer, seller, and admin should be able to login and perform different actions and logout. Customers can effortlessly browse the website, utilizing the key features of searching for items and comparing them, ensuring a user-friendly experience. The browse and search items functionality serve as the primary use case for customers seeking to explore and view products. 
+This search and compare use case extends into several scenarios, allowing customers not only to compare items but also to make purchases and, if needed, initiate returns. This enhances the overall flexibility and user satisfaction within the platform. On the seller's side, the application introduces a set of features facilitating the addition of items, selling processes, and the seamless handling of payments for their listed products. The sell-use case streamlines the seller's journey, ensuring a straightforward and efficient selling experience. Administrators, like another key user group, are equipped with features that enable them to oversee and manage the platform effectively. This includes the crucial ability to approve or block new user accounts and products, contributing to the platform's integrity and security.
+
 # Tradex Features:
