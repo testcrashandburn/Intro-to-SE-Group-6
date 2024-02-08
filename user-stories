@@ -9,3 +9,14 @@ Yi:
     Yi is an accountant working for Tradex. She frequently needs to ensure that the transactions of all the companies that are selling on Tradex have their records agreeing with her tax forms. Currently
     she has to reach out to each company by phone, but could greatly reduce the amount of labor she spends contacting each seller if she could access all their transactions in an admin transaction history. She needs
     this admin page to be secured behind a password though in order to prevent sensitive seller business information from being leaked online, as tax law requires.
+
+Luca:
+    Luca is a customer of a large corporation that sells products online. Currently, he has issues logging in and out of his account easily. The large corporation's search for their website is complex as well, making it
+    difficult to navigate through their inventory without first learning how best to search, something Luca does not deem necessary for customers to search for products. Sometimes, Luca orders a product he can't
+    use or doesn't like, but there is no built in return item button. He wishes for an easier login experience, more plain text search rather than advanced search for items, 
+    and the ability to initiate returns through the corporation website because it takes too long contacting individual companies and proving each purchase.
+
+David:
+    David is a small company owner where he and his team are constantly needing to order more products for their event venues. Unfortunately, they currently use several vendors and systems to try and coordinate
+    their transactions, culinary wastelogs, and product shipment. Because of the time spent documenting everything, the team finds they lose productivity using several systems and would benefit from a new one
+    that streamlines all of these fatures together.
