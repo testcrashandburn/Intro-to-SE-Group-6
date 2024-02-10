@@ -32,3 +32,15 @@ The Tradex application provides a seamless online shopping experience, empowerin
 This search and compare use case extends into several scenarios, allowing customers not only to compare items but also to make purchases and, if needed, initiate returns. This enhances the overall flexibility and user satisfaction within the platform. On the seller's side, the application introduces a set of features facilitating the addition of items, selling processes, and the seamless handling of payments for their listed products. The sell-use case streamlines the seller's journey, ensuring a straightforward and efficient selling experience. Administrators, like another key user group, are equipped with features that enable them to oversee and manage the platform effectively. This includes the crucial ability to approve or block new user accounts and products, contributing to the platform's integrity and security.
 
 # Tradex Features:
+
+* Product Databases
+  - There will be a base product class involving product information as well as databases containing the list of products and user interactions with products.
+  
+* User Accounts and Roles
+  - There will be a base user class that involves account login information and class extensions for each role (buyer, seller, administrator).
+
+* Payment Management System
+  - There will be a base product class that involves transaction information such as users involved and product information necessary for identifying transactions.
+  
+* Admin Dashboard
+  - The Administrator class extension of the user class will hold a dashboard of administrative actions such as approving/denying account creation as well as monitoring user support/report tickets.
