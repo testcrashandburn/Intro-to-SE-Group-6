@@ -6,7 +6,7 @@ Team Members:
 * Fisher Mason mcf325 mcf325@msstate.edu Team member
 * Megan Tucker mpt133 mpt133@msstate.edu Team member
 
-[Sprint 1 Meeting Minutes](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Meeting)
+[Meeting Minutes](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Meeting)
 
 # Tradex: Group 6's Intro-to-SE Ecommerce Project
 
