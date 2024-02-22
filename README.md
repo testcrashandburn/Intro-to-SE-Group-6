@@ -11,7 +11,8 @@ Team Members:
 # Tradex: Group 6's Intro-to-SE Ecommerce Project
 
 This repo is for designing and developing an e-commerce platform that will have a number of functionalities
-based on the customer (TA) expectations. We use continuous integration (CI), [here.](https://github.com/testcrashandburn/Intro-to-SE-Group-6/actions/workflows/django.yml)
+based on the customer (TA) expectations. 
+[We use continuous integration (CI)](https://github.com/testcrashandburn/Intro-to-SE-Group-6/actions/workflows/django.yml)
 
 [Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
 
