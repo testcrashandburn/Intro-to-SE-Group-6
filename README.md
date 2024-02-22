@@ -12,6 +12,7 @@ Team Members:
 
 This repo is for designing and developing an e-commerce platform that will have a number of functionalities
 based on the customer (TA) expectations. 
+
 [We use continuous integration (CI)](https://github.com/testcrashandburn/Intro-to-SE-Group-6/actions/workflows/django.yml)
 
 [Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
