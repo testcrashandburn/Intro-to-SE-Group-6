@@ -1,0 +1,21 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>380</x><y>260</y><w>200</w><h>240</h></coordinates><panel_attributes>&lt;&lt;Product Class&gt;&gt;
+User
+--
+-productID: Long
+-productName: string
+-productDescript: string
+-price: double
+-quantity: int
+--
++getName(): string
++setName(string productName)
++getPrice(): double
++setPrice(double price)
++getQty(): int
++setQty(int quantity)
++getSeller(): long</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>100</x><y>320</y><w>150</w><h>90</h></coordinates><panel_attributes>/User Class/
+--
+Create Account
+-login information
+--name
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>350</y><w>160</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>140;10;10;10</additional_attributes></element></diagram>
