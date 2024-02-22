@@ -4,13 +4,14 @@ Team Members:
 * Reshma Devi Mandli	rm2478	rm2478@msstate.edu Team member
 * Enang Imowo  ije25 ije25@msstate.edu Team member
 * Fisher Mason mcf325 mcf325@msstate.edu Team member
+* Megan Tucker mpt133 mpt133@msstate.edu Team member
 
 [Sprint 1 Meeting Minutes](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Meeting)
 
 # Tradex: Group 6's Intro-to-SE Ecommerce Project
 
 This repo is for designing and developing an e-commerce platform that will have a number of functionalities
-based on the customer (TA) expectations.
+based on the customer (TA) expectations. We use continuous integration (CI), [here.](https://github.com/testcrashandburn/Intro-to-SE-Group-6/actions/workflows/django.yml)
 
 [Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
 
