@@ -3,8 +3,8 @@ Team Members:
 * David Zetterholm,	Team Lead, dz101,	dz101@msstate.edu,  username: testcrashandburn
 * Reshma Devi Mandli	rm2478	rm2478@msstate.edu Team member
 * Enang Imowo  ije25 ije25@msstate.edu Team member
-* Fisher Mason mcf325 mcf325@msstate.edu Team member
-* Megan Tucker mpt133 mpt133@msstate.edu Team member
+* Fisher Mason, mcf325, mcf325@msstate.edu, Team member, username: out-of-REM
+* Megan Tucker, mpt133, mpt133@msstate.edu, Team member, username: MegalodonInc
 
 [Meeting Minutes](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Meeting)
 
