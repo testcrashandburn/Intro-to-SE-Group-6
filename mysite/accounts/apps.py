@@ -1,7 +1,6 @@
 from django.apps import AppConfig
 
 
-class TransactionConfig(AppConfig):
+class AccountsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'transaction'
-    verbose_name = 'transaction'
+    name = 'accounts'

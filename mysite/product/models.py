@@ -1,5 +1,5 @@
 from django.db import models
-from user.models import User
+from accounts.models import CustomUser
 
 # Product Database Model
 class Product(models.Model):
@@ -9,10 +9,10 @@ class Product(models.Model):
     _productDescript = models.TextField()
     price = models.DecimalField(max_digits = 12, decimal_places = 2)
     quantity = models.IntegerField()
-    seller = models.ForeignKey(User, on_delete = models.CASCADE)
+    seller = models.ForeignKey(CustomUser, on_delete = models.CASCADE)
 
     class Meta:
         ordering = ['_productName']
 
-def __str__(self):
-    return self.name
+    def __str__(self):
+        return self._productName
