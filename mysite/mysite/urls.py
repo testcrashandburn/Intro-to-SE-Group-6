@@ -24,11 +24,10 @@ urlpatterns = [
     path("accounts/", include("accounts.urls")),
     path("accounts/", include("django.contrib.auth.urls")),
     path('product/', include("product.urls")),
-<<<<<<< HEAD
+
     path('user/', include("user.urls")),
     path('transaction/', include("transaction.urls"))
 ]
-=======
-    #path('transaction/', include("transaction.urls"))
-]
->>>>>>> 02b965f (Final push sprint #3)
+
+
+
