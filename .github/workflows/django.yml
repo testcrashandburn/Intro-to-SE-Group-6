@@ -28,6 +28,7 @@ jobs:
     - name: Run Tests
       run: |
         pwd
+        ls
         python mysite/manage.py test
         pytest mysite
         
