@@ -19,6 +19,8 @@ based on the customer (TA) expectations.
 
 [Here is the project's website](http://20.115.44.153:8000/polls/)
 
+[Here are the tests](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Testcases-and-outcomes)
+
 Tradex is a web application using a collection of platforms in multiple languages, with a version control system, and live cloud server for testing and presentation. Specifically: 
 1. Backend: The web server logic uses the webserver package Django 5.0 
 2. Database: The various databases use SQLite 3.38, with Python 3.9 bindings  
