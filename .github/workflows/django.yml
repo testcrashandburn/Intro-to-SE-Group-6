@@ -28,5 +28,5 @@ jobs:
     - name: Run Tests
       run: |
         python mysite/manage.py test
-        pip test
+        pytest .
         
