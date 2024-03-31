@@ -55,7 +55,7 @@ def test_transaction_db():
         #transactionTime = datetime.datetime(2015, 10, 11, 23, 55, 59, 342380)
         transactionTime = timezone.now()
     )
-      assert testtransaction.transactionID==1  
+    assert testtransaction.transactionID==1  
 
 
 
