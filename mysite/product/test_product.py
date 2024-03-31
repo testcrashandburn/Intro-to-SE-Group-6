@@ -49,12 +49,13 @@ def test_transaction_db():
     )
     timezone.now()
     #d = datetime.datetime(2015, 10, 11, 23, 55, 59, 342380)
-    testproduct = Transaction.objects.create( transactionID = 1,
+    testtransaction = Transaction.objects.create( transactionID = 1,
         productInfo = testproduct,
         sellerInfo = testuser,
         #transactionTime = datetime.datetime(2015, 10, 11, 23, 55, 59, 342380)
         transactionTime = timezone.now()
     )
+      assert testtransaction.transactionID==1  
 
 
 
