@@ -1,0 +1,26 @@
+{% extends 'tradespace/main.html' %}
+{% load static %}
+{% block content %}
+<div class="row">
+	<div class="col-lg-12">
+		<div class="box-element">
+            <a  class="btn btn-outline-dark" href="{% url 'tradespace' %}">&#x2190; Continue Shopping</a>
+            <br>
+            <br>
+            <table class="table">
+                {% for item in historylist %}
+                    <tr>
+                        <th>
+                            <h5> 
+                                <strong>
+                                    {{item}}
+                                </strong>
+                            </h5>
+                        </th>
+                    </tr>
+                {% endfor %}
+            </table>        
+        </div>
+	</div>
+</div>
+{% endblock content %}
