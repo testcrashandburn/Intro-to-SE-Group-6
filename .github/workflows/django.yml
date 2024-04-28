@@ -30,7 +30,7 @@ jobs:
         python mysite/manage.py test
         pwd
         ls
-        cd mysite
+        cd tradex
         pwd
         ls
         pytest
