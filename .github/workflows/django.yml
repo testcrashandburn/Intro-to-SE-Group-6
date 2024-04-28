@@ -27,10 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        python mysite/manage.py test
-        pwd
-        ls
-        cd mysite
+        cd tradex
         pwd
         ls
         pytest
