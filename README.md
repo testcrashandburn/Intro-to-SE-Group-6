@@ -15,7 +15,7 @@ based on the customer (TA) expectations.
 
 [We use continuous integration (CI)](https://github.com/testcrashandburn/Intro-to-SE-Group-6/actions/workflows/django.yml)
 
-[Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/blob/main/user-stories)
+[Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/tree/main/UML)
 
 [Here is the project's website](http://20.115.44.153:8000/polls/)
 
