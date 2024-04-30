@@ -17,7 +17,6 @@ based on the customer (TA) expectations.
 
 [Here are some User Stories](https://github.com/testcrashandburn/Intro-to-SE-Group-6/tree/main/UML)
 
-[Here is the project's website](http://20.115.44.153:8000/polls/)
 
 [Here are the tests](https://github.com/testcrashandburn/Intro-to-SE-Group-6/wiki/Testcases-and-outcomes)
 
