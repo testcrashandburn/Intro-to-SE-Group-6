@@ -1,6 +1,6 @@
 # Group 6
 Team Members:
-* David Zetterholm,	Team Lead, dz101,	dz101@msstate.edu,  username: testcrashandburn
+
 * Reshma Devi Mandli	rm2478	rm2478@msstate.edu Team member
 * Enang Imowo  ije25 ije25@msstate.edu Team member
 * Fisher Mason, mcf325, mcf325@msstate.edu, Team member, username: out-of-REM
